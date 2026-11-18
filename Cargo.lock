@@ -4316,7 +4316,7 @@ version = "0.8.1"
 dependencies = [
  "base64",
  "cap-std",
- "getrandom 0.3.4",
+ "getrandom 0.4.3",
  "photocraft-codecs",
  "photocraft-compose",
  "photocraft-doc",
